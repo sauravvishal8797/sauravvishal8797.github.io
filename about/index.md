@@ -1,12 +1,5 @@
 
-/assets/img/index.jpeg
-
-
-
-
-
-
-
+About Me
 
 
 I am a 1st year undergraduate student pursuing my degree in 
