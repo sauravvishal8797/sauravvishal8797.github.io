@@ -1,3 +1,16 @@
+
+
+
+/home/saurav/Desktop/MYSITE/assets/img/index.jpeg
+
+
+
+
+
+
+
+
+
 I am a 1st year undergraduate student pursuing my degree in 
 Computer Science Engineering from Amrita School of 
 Engineering, Kerala, India. Apart from academics, I am 
