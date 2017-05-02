@@ -1,37 +1,17 @@
----
-layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
-comments: false
----
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+I am a 1st year undergraduate student pursuing my degree in 
+Computer Science Engineering from Amrita School of 
+Engineering, Kerala, India. Apart from academics, I am 
+avidly interested in contributing to Open Source software. 
+Also, I am an active member of ​ FOSS@Amrita​  which is an Open 
+Source club of my university. My special interest lies in 
+developing for android and was really fascinated by the 
+idea of taking part in Google Summer Of Code, so I went 
+through some Android projects and found this project really 
+interesting to work on. I have worked with firebase and 
+have basic knowledge of integrating with RESTFUL Web 
+services in android. Currently learning Aerogear libraries 
+which are the main libraries used in this project. I have 
+also done some contributions to the project and plan to do 
+more. I am familiar with the code base of the project would 
+like to work on it to make it even better. I am an ever 
+learner and keen to learn and explore new technologies.  
