@@ -2,7 +2,7 @@
 About Me
 
 
-I am a 1st year undergraduate student pursuing my degree in 
+I am a 2nd year undergraduate student pursuing my degree in 
 Computer Science Engineering from Amrita School of 
 Engineering, Kerala, India. Apart from academics, I am 
 avidly interested in contributing to Open Source software. 
